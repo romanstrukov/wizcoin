@@ -28,6 +28,3 @@ Here's some example code demonstrating how this module is ised:
 
 If you'd like to contribute to Basic Python Project, check out https://github.com/susieexample/basicpythonproject
 
-
-
-dffsdgdfgdfggfhfghdfgbfgbfdbbgb
